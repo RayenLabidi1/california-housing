@@ -1,0 +1,9 @@
+# Données téléchargées par le notebook
+datasets/
+
+# Modèle sauvegardé (recréé par le notebook)
+*.pkl
+
+# Fichiers temporaires de Jupyter et Python
+.ipynb_checkpoints/
+__pycache__/
